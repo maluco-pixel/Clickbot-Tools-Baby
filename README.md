@@ -15,7 +15,11 @@ Join to the bot using this link first
 
 
 Then copy this command `git clone https://github.com/anarki-install/Clickbot-Tools-Baby/` 
+
+
 and paste it to your termux, 
+
+
 and then open file by `cd files` and the last, run it by execute `python bot.py`
 
 
