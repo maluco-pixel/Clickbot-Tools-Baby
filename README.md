@@ -17,7 +17,7 @@ Join to the bot using this link first
 Then copy this command `git clone https://github.com/anarki-install/Clickbot-Tools-Baby/` 
 
 
-and paste it to your termux, 
+and paste it to your termux, wait until the file being installed on your phone
 
 
 and then open file by `cd files` and the last, run it by execute `python bot.py`
